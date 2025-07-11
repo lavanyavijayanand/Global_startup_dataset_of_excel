@@ -94,7 +94,7 @@ Welcome! This project analyzes global startup trends using Microsoft Excel and t
 
 **Lavanya Vijay**  
 3rd Year B.Tech – SRM Institute of Science and Technology, Trichy  
-📫 [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/lavanyavijay1219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+📫 [LinkedIn Profile](https://www.linkedin.com/in/lavanyavijay1219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
